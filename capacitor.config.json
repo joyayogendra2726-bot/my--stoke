@@ -1,0 +1,8 @@
+{
+  "appId": "com.mystoke.india",
+  "appName": "My Stoke",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
